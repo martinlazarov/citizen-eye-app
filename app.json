@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Citizen Eye",
-    "slug": "citizen-eye",
+    "name": "City Safeguard",
+    "slug": "city-safeguard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +17,7 @@
       "infoPlist": {
         "NSLocationWhenInUseUsageDescription": "We need your location to show you nearby spots."
       },
-      "bundleIdentifier": "com.byganyo.citizen-eye"
+      "bundleIdentifier": "com.energysoft.city-safeguard"
     },
     "android": {
       "adaptiveIcon": {
