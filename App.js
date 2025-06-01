@@ -9,7 +9,7 @@ export default function App() {
     <View style={styles.container}>
       <WebView
         ref={webviewRef}
-        source={{ uri: "https://spot-whisper-web.vercel.app/" }}
+        source={{ uri: "https://v0-citizen-eye.vercel.app/" }}
         startInLoadingState
         geolocationEnabled={true}
         renderLoading={() => (

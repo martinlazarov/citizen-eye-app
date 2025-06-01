@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Spot Whisper",
-    "slug": "spot-whisper",
+    "name": "Citizen Eye",
+    "slug": "citizen-eye",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +17,7 @@
       "infoPlist": {
         "NSLocationWhenInUseUsageDescription": "We need your location to show you nearby spots."
       },
-      "bundleIdentifier": "com.byganyo.spot-whisper"
+      "bundleIdentifier": "com.byganyo.citizen-eye"
     },
     "android": {
       "adaptiveIcon": {
